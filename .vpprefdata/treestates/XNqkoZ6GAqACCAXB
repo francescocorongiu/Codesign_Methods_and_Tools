@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProjectTreeState projectID="SNFO8.6GAqACLgWK" projectPath="C:\Users\gianp\Dropbox (Politecnico Di Torino Studenti)\Codesign_e_ISA\Codesign\Intercom\Intercom.vpp">
+	<TreeState name="ModelRepository" viewX="0" viewY="414">
+		<ExpandedPath>ModelRepository</ExpandedPath>
+		<ExpandedPath>ModelRepository,CwA7Lx6GAqACLhOO</ExpandedPath>
+		<ExpandedPath>ModelRepository,CwA7Lx6GAqACLhOO,GwA7Lx6GAqACLhOn</ExpandedPath>
+		<SelectedPath>ModelRepository,CwA7Lx6GAqACLhOO,I_V3556GAqFkFjC4</SelectedPath>
+	</TreeState>
+	<TreeState name="DiagramNavigator" viewX="0" viewY="0">
+		<ExpandedPath>DiagramNavigator</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,UML Diagrams</ExpandedPath>
+		<ExpandedPath>UseCaseDiagram</ExpandedPath>
+		<ExpandedPath>ClassDiagram</ExpandedPath>
+		<ExpandedPath>InteractionDiagram</ExpandedPath>
+		<ExpandedPath>StateDiagram</ExpandedPath>
+		<ExpandedPath>ComponentDiagram</ExpandedPath>
+		<SelectedPath>ClassDiagram,FlCJx.6GAqACLgwm</SelectedPath>
+	</TreeState>
+	<TreeState name="ClassBrowser" viewX="0" viewY="0"/>
+	<TreeState name="LogicalView" viewX="0" viewY="0"/>
+	<TreeState name="DiagramBacklog" viewX="0" viewY="0"/>
+</ProjectTreeState>

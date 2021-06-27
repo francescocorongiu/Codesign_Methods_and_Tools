@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name New_Library)(type Legacy)(uri "C:/Users/Francesco/Dropbox (Politecnico Di Torino Studenti)/LAB Codesign & ISA/Codesign/Intercom/Total_Schematic/New_Library.lib")(options "")(descr ""))
+  (lib (name ESAME)(type Legacy)(uri "C:/Users/Francesco/Dropbox (Politecnico Di Torino Studenti)/LAB Codesign & ISA/Codesign/Intercom/Total_Schematic/ESAME.lib")(options "")(descr ""))
+  (lib (name Internal_Intercom-rescue)(type Legacy)(uri ${KIPRJMOD}/Internal_Intercom-rescue.lib)(options "")(descr ""))
+  (lib (name External_Intercom-rescue)(type Legacy)(uri ${KIPRJMOD}/External_Intercom-rescue.lib)(options "")(descr ""))
+)

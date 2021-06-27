@@ -1,0 +1,38 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MMSZ2V7T1G
+D 500 mW 2.7 V +/-5% ZenerDiodeVoltage Regulator
+F https://componentsearchengine.com/Datasheets/1/MMSZ2V7T1G.pdf
+$ENDCMP
+#
+$CMP NE555DR
+D Single Precision Timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP PTS645SK50JSMTR92_LFS
+D Tactile Switches 50mA 12VDC, SPST NO, 260 gf, 5.0mm H, SMT J-type
+F https://www.digikey.in/product-detail/en/c-k/PTS645SK50JSMTR92-LFS/108-PTS645SK50JSMTR92LFSCT-ND/12163485
+$ENDCMP
+#
+$CMP TB006-508-04BE
+D Fixed Terminal Blocks screw type, 5.08 , horizontal, 4 poles, CUI Blue, slotted screw, PCB mount
+F https://componentsearchengine.com/Datasheets/1/TB006-508-04BE.pdf
+$ENDCMP
+#
+$CMP TB006-508-05BE
+D Fixed Terminal Blocks Terminal block, screw type, 5.08 , horizontal, 5 poles, CUI Blue, slotted screw, PCB mount
+F https://componentsearchengine.com/Datasheets/1/TB006-508-05BE.pdf
+$ENDCMP
+#
+$CMP TLV320AIC3254IRHBT
+D TLV320AIC3254IRHBT, Audio Codec Stereo-channel 32bit- 192ksps Serial-I2C, Serial-I2S, Serial-SPI 32-Pin QFN
+F http://www.ti.com/lit/ds/slas549d/slas549d.pdf
+$ENDCMP
+#
+$CMP TPS63802DLAR
+D Texas Instruments High current, high efficiency single inductor buck-boost converter 10-VSON-HR -40 to 125
+F http://www.ti.com/lit/ds/symlink/tps63802.pdf
+$ENDCMP
+#
+#End Doc Library

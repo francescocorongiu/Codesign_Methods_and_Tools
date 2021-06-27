@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProjectTreeState projectID="SNFO8.6GAqACLgWK" projectPath="C:\Users\Francesco\Dropbox (Politecnico Di Torino Studenti)\LAB Codesign &amp; ISA\Codesign\Intercom\Intercom.vpp">
+	<TreeState name="ModelRepository" viewX="0" viewY="486">
+		<ExpandedPath>ModelRepository</ExpandedPath>
+		<ExpandedPath>ModelRepository,1JCJx.6GAqACLgng</ExpandedPath>
+		<ExpandedPath>ModelRepository,1JCJx.6GAqACLgng,vJCJx.6GAqACLgno</ExpandedPath>
+		<ExpandedPath>ModelRepository,1JCJx.6GAqACLgng,7JCJx.6GAqACLgnj</ExpandedPath>
+		<SelectedPath>ModelRepository,1JCJx.6GAqACLgng,vJCJx.6GAqACLgno,b5nccl6GAqBwAWK2</SelectedPath>
+	</TreeState>
+	<TreeState name="DiagramNavigator" viewX="0" viewY="0">
+		<ExpandedPath>DiagramNavigator</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,UML Diagrams</ExpandedPath>
+		<ExpandedPath>ClassDiagram</ExpandedPath>
+		<ExpandedPath>InteractionDiagram</ExpandedPath>
+		<ExpandedPath>ComponentDiagram</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Requirements Capturing</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Database Modeling</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Business Modeling</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,SysML</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Enterprise Architecture</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Project Management</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,SoaML</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Impact Analysis</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Strategic Analysis</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Process Map</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Analysis Canvas</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Software Design</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Decision Analysis</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Quality Control</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Flowchart</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Engineering</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Cloud Architecture</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Data Visualization</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Network Design</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,General</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Others</ExpandedPath>
+		<SelectedPath>ClassDiagram,1jvUXx6GAqACLh59</SelectedPath>
+	</TreeState>
+	<TreeState name="ClassBrowser" viewX="0" viewY="0"/>
+	<TreeState name="LogicalView" viewX="0" viewY="0"/>
+	<TreeState name="DiagramBacklog" viewX="0" viewY="0"/>
+</ProjectTreeState>
